@@ -1,0 +1,6 @@
+@A2AServer_HostAddress = http://localhost:5237
+
+GET {{A2AServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

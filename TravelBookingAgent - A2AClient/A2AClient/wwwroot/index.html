@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Booking Agent Chatbot</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 35px 45px;
+            border-radius: 15px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            width: 550px; /* Added a fixed width for better chat layout */
+            max-width: 90%; /* Responsive adjustment */
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        h2 {
+            color: #2c3e50;
+            margin-bottom: 25px;
+            font-weight: 600;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 18px;
+            margin-bottom: 25px; /* Space before chat messages */
+        }
+        input[type="text"] {
+            width: 100%; /* Make input fill its container */
+            padding: 15px 18px;
+            border: 2px solid #e0e6ed;
+            border-radius: 8px;
+            font-size: 16px;
+            box-sizing: border-box;
+            transition: border-color 0.3s ease, box-shadow 0.3s ease;
+            background-color: #f8f9fa;
+        }
+        input[type="text"]:focus {
+            outline: none;
+            border-color: #4a90e2;
+            box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
+            background-color: #ffffff;
+        }
+        button[type="submit"] {
+            background: linear-gradient(135deg, #4a90e2 0%, #357abd 100%);
+            color: white;
+            padding: 15px 25px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(74, 144, 226, 0.3);
+        }
+        button[type="submit"]:hover {
+            background: linear-gradient(135deg, #357abd 0%, #2a5298 100%);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(74, 144, 226, 0.4);
+        }
+        #chat-body {
+            border-top: 2px solid #e0e6ed;
+            padding-top: 25px;
+            text-align: left; /* Align chat messages to the left */
+            max-height: 350px; /* Limit chat height and make it scrollable */
+            overflow-y: auto;
+            display: flex; /* Use flexbox for chat messages */
+            flex-direction: column;
+            gap: 12px; /* Space between messages */
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 10px;
+        }
+        .chat-message {
+            padding: 12px 18px;
+            border-radius: 12px;
+            max-width: 85%;
+            word-wrap: break-word; /* Ensure long words wrap */
+            font-size: 14px;
+            line-height: 1.4;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        .user-message {
+            background: linear-gradient(135deg, #4a90e2 0%, #357abd 100%);
+            color: white;
+            align-self: flex-end; /* Align user messages to the right */
+        }
+        .agent-message {
+            background: linear-gradient(135deg, #27ae60 0%, #2ecc71 100%);
+            color: white;
+            align-self: flex-start; /* Align agent messages to the left */
+        }
+
+        /* Styles for the logos */
+        .logo-container {
+            display: flex;
+            justify-content: center; /* Center everything */
+            align-items: center; /* Vertically align items */
+            margin-top: 25px;
+            gap: 15px; /* Space between items (logos and text) */
+            flex-wrap: wrap; /* Allow items to wrap on smaller screens */
+            padding: 15px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            backdrop-filter: blur(5px);
+        }
+
+        .logo {
+            max-width: 70px; /* Slightly smaller logos for better inline flow */
+            height: auto;
+            vertical-align: middle; /* Aligns the image nicely with text */
+            filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
+        }
+
+        .logo-text {
+            font-size: 1.0em; /* Make text slightly larger */
+            font-weight: 600;
+            color: #2c3e50;
+            white-space: nowrap; /* Prevent text from breaking within a phrase */
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+        }
+
+        .csharp-badge {
+            background: linear-gradient(135deg, #239120 0%, #68217a 100%);
+            color: white;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            font-weight: 600;
+            margin: 0 5px;
+            box-shadow: 0 2px 8px rgba(35, 145, 32, 0.3);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Travel Planner Agent</h2>
+        <form id="booking-form">
+            <input type="text" name="user_input" placeholder="e.g., Book a flight from New York to London on July 15th" autocomplete="off" id="user-input">
+            <button type="submit">Send Message</button>
+        </form>
+
+        <div id="chat-body">
+            </div>
+
+        <div class="logo-container">
+            <span class="logo-text">Built with</span>
+            <span class="csharp-badge">C# & .NET</span>
+            <span class="logo-text">using</span>
+            <img src="https://static.vecteezy.com/system/resources/previews/027/127/473/non_2x/microsoft-logo-microsoft-icon-transparent-free-png.png" alt="Microsoft Logo" class="logo">
+            <span class="logo-text">Semantic Kernel</span>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/768px-Google_%22G%22_logo.svg.png" alt="Microsoft Logo" class="logo">
+            <span class="logo-text">A2A Protocol</span>
+        </div>
+    </div>
+
+    <script>
+        const bookingForm = document.getElementById('booking-form');
+        const userInputField = document.getElementById('user-input');
+        const chatBody = document.getElementById('chat-body');
+
+        // Function to add a message to the chat body
+        function addMessage(text, sender) {
+            const messageDiv = document.createElement('div');
+            messageDiv.classList.add('chat-message');
+            if (sender === 'user') {
+                messageDiv.classList.add('user-message');
+            } else if (sender === 'agent') {
+                messageDiv.classList.add('agent-message');
+            }
+            messageDiv.textContent = text;
+            chatBody.appendChild(messageDiv);
+            chatBody.scrollTop = chatBody.scrollHeight; // Scroll to the bottom
+        }
+
+        bookingForm.addEventListener('submit', async (event) => {
+            event.preventDefault(); // Prevent default form submission
+
+            const userText = userInputField.value.trim();
+            if (userText === '') {
+                return; // Don't send empty messages
+            }
+
+            // Display user's message
+            addMessage(userText, 'user');
+            userInputField.value = ''; // Clear the input field
+
+            try {
+                // Send the user input to your backend's /chat endpoint
+                const response = await fetch('/api/Chat/chat', { // *** Changed endpoint to /chat ***
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/x-www-form-urlencoded',
+                    },
+                    body: `userInput=${encodeURIComponent(userText)}`
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const data = await response.json(); // Get the JSON response
+                console.log("Agent raw response:", data); // Log the full response
+
+                // *** Extract the response_text directly from the JSON ***
+                if (data && data.response) {
+                    const agentMessage = data.response; // Direct access to the text
+                    addMessage(agentMessage, 'agent');
+                } else {
+                    addMessage("Agent did not provide a valid response.", 'agent');
+                }
+
+            } catch (error) {
+                console.error('Error sending message or parsing response:', error);
+                addMessage("Error communicating with the agent. Please try again.", 'agent');
+            }
+        });
+    </script>
+</body>
+</html>

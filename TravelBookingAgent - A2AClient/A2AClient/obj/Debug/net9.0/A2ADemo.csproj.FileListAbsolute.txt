@@ -1,0 +1,140 @@
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/appsettings.Development.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/appsettings.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/A2ADemo.staticwebassets.endpoints.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/A2ADemo
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/A2ADemo.deps.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/A2ADemo.runtimeconfig.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/A2ADemo.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/A2ADemo.pdb
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/A2ADemo.csproj.AssemblyReference.cache
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/A2ADemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/A2ADemo.AssemblyInfoInputs.cache
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/A2ADemo.AssemblyInfo.cs
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/A2ADemo.csproj.CoreCompileInputs.cache
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/A2ADemo.MvcApplicationPartsAssemblyInfo.cs
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/A2ADemo.MvcApplicationPartsAssemblyInfo.cache
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/scopedcss/bundle/A2ADemo.styles.css
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/staticwebassets.build.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/staticwebassets.development.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/A2ADemo.csproj.Up2Date
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/A2ADemo.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/refint/A2ADemo.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/A2ADemo.pdb
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/A2ADemo.genruntimeconfig.cache
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/ref/A2ADemo.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/A2ADemo.staticwebassets.runtime.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/obj/Debug/net9.0/compressed/3hdqci1r92-xl2gjv7j87.gz
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Azure.AI.OpenAI.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Azure.Core.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.Bcl.HashCode.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.Extensions.AI.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.Extensions.AI.Abstractions.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.Extensions.AI.OpenAI.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.Extensions.VectorData.Abstractions.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.SemanticKernel.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.SemanticKernel.Abstractions.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.SemanticKernel.Agents.Abstractions.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.SemanticKernel.Agents.Core.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.SemanticKernel.Connectors.AzureOpenAI.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.SemanticKernel.Connectors.OpenAI.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.SemanticKernel.Core.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/OpenAI.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/System.ClientModel.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/System.Linq.Async.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/System.Numerics.Tensors.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Microsoft.SemanticKernel.Agents.A2A.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/OpenTelemetry.Api.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Polly.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/Polly.Core.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/SharpA2A.Core.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/A2ADemo/bin/Debug/net9.0/System.Net.ServerSentEvents.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/appsettings.Development.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/appsettings.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/A2ADemo.staticwebassets.runtime.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/A2ADemo.staticwebassets.endpoints.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/A2ADemo
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/A2ADemo.deps.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/A2ADemo.runtimeconfig.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/A2ADemo.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/A2ADemo.pdb
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Azure.AI.OpenAI.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Azure.Core.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.Bcl.HashCode.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.Extensions.AI.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.Extensions.AI.Abstractions.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.Extensions.AI.OpenAI.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.Extensions.VectorData.Abstractions.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.SemanticKernel.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.SemanticKernel.Abstractions.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.SemanticKernel.Agents.A2A.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.SemanticKernel.Agents.Abstractions.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.SemanticKernel.Agents.Core.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.SemanticKernel.Connectors.AzureOpenAI.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.SemanticKernel.Connectors.OpenAI.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Microsoft.SemanticKernel.Core.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/OpenAI.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/OpenTelemetry.Api.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Polly.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Polly.Core.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/SharpA2A.Core.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/System.ClientModel.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/System.Linq.Async.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/System.Net.ServerSentEvents.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/bin/Debug/net9.0/System.Numerics.Tensors.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/A2ADemo.csproj.AssemblyReference.cache
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/A2ADemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/A2ADemo.AssemblyInfoInputs.cache
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/A2ADemo.AssemblyInfo.cs
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/A2ADemo.csproj.CoreCompileInputs.cache
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/A2ADemo.MvcApplicationPartsAssemblyInfo.cs
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/A2ADemo.MvcApplicationPartsAssemblyInfo.cache
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/scopedcss/bundle/A2ADemo.styles.css
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/compressed/3hdqci1r92-xl2gjv7j87.gz
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/staticwebassets.build.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/staticwebassets.development.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/A2ADemo.csproj.Up2Date
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/A2ADemo.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/refint/A2ADemo.dll
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/A2ADemo.pdb
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/A2ADemo.genruntimeconfig.cache
+/Users/akshaykokane/Documents/Projects/A2ASemanticKernel/TravelBookingAgent - A2AClient/A2AClient/obj/Debug/net9.0/ref/A2ADemo.dll
